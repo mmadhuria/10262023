@@ -1,0 +1,17 @@
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/bin/Debug/net7.0/JsonCleanup
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/bin/Debug/net7.0/JsonCleanup.deps.json
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/bin/Debug/net7.0/JsonCleanup.runtimeconfig.json
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/bin/Debug/net7.0/JsonCleanup.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/bin/Debug/net7.0/JsonCleanup.pdb
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.csproj.AssemblyReference.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.AssemblyInfoInputs.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.AssemblyInfo.cs
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.csproj.CoreCompileInputs.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.csproj.CopyComplete
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/refint/JsonCleanup.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.pdb
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/JsonCleanup.genruntimeconfig.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/obj/Debug/net7.0/ref/JsonCleanup.dll

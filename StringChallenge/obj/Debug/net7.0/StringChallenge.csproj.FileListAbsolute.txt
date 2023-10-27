@@ -1,0 +1,15 @@
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/bin/Debug/net7.0/StringChallenge
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/bin/Debug/net7.0/StringChallenge.deps.json
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/bin/Debug/net7.0/StringChallenge.runtimeconfig.json
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/bin/Debug/net7.0/StringChallenge.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/bin/Debug/net7.0/StringChallenge.pdb
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/StringChallenge.csproj.AssemblyReference.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/StringChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/StringChallenge.AssemblyInfoInputs.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/StringChallenge.AssemblyInfo.cs
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/StringChallenge.csproj.CoreCompileInputs.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/StringChallenge.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/refint/StringChallenge.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/StringChallenge.pdb
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/StringChallenge.genruntimeconfig.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/StringChallenge/obj/Debug/net7.0/ref/StringChallenge.dll

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "0KY5ZYOgGKN6Ta1bWj8T6rrov/buhWL/qRWCd1bIkjaEAZQv/DJGANJtRFN0gD2lChjPxG9JT/VAeaae5RsVew==",
+  "success": true,
+  "projectFilePath": "/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser.Tests/WebLogParser.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/narayan.ambatipudi/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/coverlet.msbuild/6.0.0/coverlet.msbuild.6.0.0.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/microsoft.codecoverage/17.7.2/microsoft.codecoverage.17.7.2.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/microsoft.net.test.sdk/17.7.2/microsoft.net.test.sdk.17.7.2.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/microsoft.testplatform.objectmodel/17.7.2/microsoft.testplatform.objectmodel.17.7.2.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/microsoft.testplatform.testhost/17.7.2/microsoft.testplatform.testhost.17.7.2.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/moq/4.20.69/moq.4.20.69.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/mstest.testadapter/3.1.1/mstest.testadapter.3.1.1.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/mstest.testframework/3.1.1/mstest.testframework.3.1.1.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hISBQUphM8li9uU1Ndm2qGNYOR+F4V7+f6Uhzlz9ubzXFUkzJEoeuu2z7Vbno1dLrgL5RF3ujElnjUkve1f3IQ==",
+  "success": true,
+  "projectFilePath": "/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/JsonCleanup/JsonCleanup.csproj",
+  "expectedPackageFiles": [
+    "/Users/narayan.ambatipudi/.nuget/packages/coverlet.msbuild/6.0.0/coverlet.msbuild.6.0.0.nupkg.sha512",
+    "/Users/narayan.ambatipudi/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/bin/Debug/net7.0/WebLogParser
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/bin/Debug/net7.0/WebLogParser.deps.json
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/bin/Debug/net7.0/WebLogParser.runtimeconfig.json
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/bin/Debug/net7.0/WebLogParser.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/bin/Debug/net7.0/WebLogParser.pdb
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/WebLogParser.csproj.AssemblyReference.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/WebLogParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/WebLogParser.AssemblyInfoInputs.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/WebLogParser.AssemblyInfo.cs
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/WebLogParser.csproj.CoreCompileInputs.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/WebLogParser.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/refint/WebLogParser.dll
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/WebLogParser.pdb
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/WebLogParser.genruntimeconfig.cache
+/Users/narayan.ambatipudi/Library/CloudStorage/OneDrive-Vertex,Inc/CodingChallenge/10262023/WebLogParser/obj/Debug/net7.0/ref/WebLogParser.dll
